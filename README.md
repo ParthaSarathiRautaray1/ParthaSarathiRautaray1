@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ParthaSarathiRautaray1
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on MERN STACK
+
+
 
 <!---
 ParthaSarathiRautaray1/ParthaSarathiRautaray1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
